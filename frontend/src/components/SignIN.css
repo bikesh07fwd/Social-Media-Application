@@ -1,0 +1,52 @@
+.signUplogo2 {
+  margin-top: 20px;
+  width: 50%;
+  margin-bottom: 15px;
+}
+.signin {
+  /* background-image: url("https://i.pinimg.com/originals/17/4b/77/174b77c13dd4b36bc8376940135d280b.jpg"); */
+  /* background-image: url("https://img.freepik.com/free-vector/dark-black-background-design-with-stripes_1017-38064.jpg"); */
+  background-size: cover;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.loginform2 {
+  color: rgba(var(--f52, 142, 142, 142), 1);
+  margin-top: 10px;
+  background-color: black;
+  padding: 12px;
+  border-radius: 10px;
+}
+#sbt_btn {
+  margin-top: 8px;
+  background-color: #0866ff;
+  color: white;
+  /* width: 88%; */
+  cursor: pointer;
+}
+.loginform {
+  background-color: black;
+  height: 220px;
+  width: 300px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+input {
+  margin-bottom: 6px;
+}
+.text_logo_signin {
+  font-size: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  color: #0866ff;
+  margin-top: 16px;
+  margin-bottom: 30px;
+  box-sizing: border-box;
+
+  /* font-family: system-ui; */
+}
